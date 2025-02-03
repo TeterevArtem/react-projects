@@ -8,6 +8,7 @@ function HomePage() {
       <p>You can choose project page on list below</p>
       <nav>
         <Link to="/counter">Counter</Link>
+        <Link to="/modal">Modal</Link>
       </nav>
     </>
   )
